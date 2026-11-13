@@ -1,0 +1,7 @@
+target/
+output/
+.env
+*.iml
+.idea/
+.vscode/
+trello.properties
